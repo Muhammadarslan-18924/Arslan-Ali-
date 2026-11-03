@@ -1,0 +1,18 @@
+
+MY INTRODUCTION
+
+Hello everyone!
+
+I am a Computer Science student currently in my 3rd semester.
+
+I am learning programming, Data Structures and Algorithms, and software development.
+
+I have experience working with C++ and I am improving my problem-solving skills.
+
+I am also interested in web development, artificial intelligence, and automation.
+
+My goal is to improve my technical skills and work on practical projects.
+
+I am learning Git and GitHub to understand version control, collaboration, branches, and pull requests.
+
+Thank you!
